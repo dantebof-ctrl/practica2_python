@@ -1,0 +1,14 @@
+# Python: archivos compilados y cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook: archivos temporales
+.ipynb_checkpoints/
+
+# Entornos virtuales (por si llegas a crear uno)
+.venv/
+venv/
+env/
+
+# Archivos de configuración de VS Code (opcional pero recomendado)
+.vscode/
